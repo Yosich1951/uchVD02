@@ -1,0 +1,57 @@
+p {
+    background-color: crimson;
+}
+#test {
+    background-color: royalblue;
+}
+.text1{
+    background-color: olivedrab;
+    }
+
+.text2{
+    background-color: olivedrab;
+    font-size: 34px;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-weight: 900;
+}
+.text3{
+    background-color: olivedrab;
+    font-size: 34px;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-weight: 100;
+}
+.text4{
+    background-color: olivedrab;
+    font-size: 34px;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-weight: 100;
+    width: 50%;
+}
+.text5{
+    background-color: #1E90FF;
+
+}
+.text6{
+    background-color: rgb(220, 20, 60);
+
+}
+.text7{
+    background-color: olivedrab;
+    font-size: 34px;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-weight: 100;
+    width: 50%;
+    height: 200px;
+}
+.text8{
+    background-color: olivedrab;
+    font-size: 34px;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-weight: 100;
+    width: 50%;
+    height: 200px;
+    border-color: deeppink;
+    border-style: solid;
+    border-weight: 10px;
+    border-radius: 20px;
+}

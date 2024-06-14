@@ -1,0 +1,38 @@
+ .card {
+    background-color: #D2B48C; /* светло-коричневый цвет */
+    border: 2px solid #000; /* граница 2 пикселя */
+    border-radius: 60px; /* радиус 60 пикселей */
+    padding: 20px;
+    width: 550px; /* ширина карточки */
+    margin: 0 auto; /* центрирование карточки на странице */
+    box-sizing: border-box;
+}
+
+.photo {
+    text-align: center; /* центрирование фото */
+    margin-bottom: 20px; /* отступ снизу */
+}
+
+.photo img {
+    max-width: 100%; /* адаптивная ширина фото */
+    height: auto; /* авто высота для сохранения пропорций */
+    border-radius: 50%; /* круглая форма фото */
+}
+.table {
+    width: 100%;
+    background-color: #FFFF00; /* желтый фон */
+    border-collapse: collapse;
+    margin: 0 auto; /* центрирование таблицы */
+}
+
+.table th, .table td {
+    border: 2px solid black; /* границы 2 пикселя */
+    padding: 10px;
+    text-align: center;
+}
+
+/* Дополнительные стили для заголовков таблицы */
+.table th {
+    background-color: #FFD700; /* золотистый фон для заголовков */
+    font-weight: bold;
+}
